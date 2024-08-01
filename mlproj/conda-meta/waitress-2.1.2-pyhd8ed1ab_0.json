@@ -1,0 +1,325 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\omen\\.conda\\pkgs\\waitress-2.1.2-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/waitress-2.1.2.dist-info/INSTALLER",
+    "Lib/site-packages/waitress-2.1.2.dist-info/LICENSE.txt",
+    "Lib/site-packages/waitress-2.1.2.dist-info/METADATA",
+    "Lib/site-packages/waitress-2.1.2.dist-info/RECORD",
+    "Lib/site-packages/waitress-2.1.2.dist-info/REQUESTED",
+    "Lib/site-packages/waitress-2.1.2.dist-info/WHEEL",
+    "Lib/site-packages/waitress-2.1.2.dist-info/direct_url.json",
+    "Lib/site-packages/waitress-2.1.2.dist-info/entry_points.txt",
+    "Lib/site-packages/waitress-2.1.2.dist-info/top_level.txt",
+    "Lib/site-packages/waitress/__init__.py",
+    "Lib/site-packages/waitress/__main__.py",
+    "Lib/site-packages/waitress/adjustments.py",
+    "Lib/site-packages/waitress/buffers.py",
+    "Lib/site-packages/waitress/channel.py",
+    "Lib/site-packages/waitress/compat.py",
+    "Lib/site-packages/waitress/parser.py",
+    "Lib/site-packages/waitress/proxy_headers.py",
+    "Lib/site-packages/waitress/receiver.py",
+    "Lib/site-packages/waitress/rfc7230.py",
+    "Lib/site-packages/waitress/runner.py",
+    "Lib/site-packages/waitress/server.py",
+    "Lib/site-packages/waitress/task.py",
+    "Lib/site-packages/waitress/trigger.py",
+    "Lib/site-packages/waitress/utilities.py",
+    "Lib/site-packages/waitress/wasyncore.py",
+    "Lib/site-packages/waitress/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/adjustments.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/buffers.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/channel.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/compat.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/parser.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/proxy_headers.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/receiver.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/rfc7230.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/runner.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/server.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/task.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/trigger.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/utilities.cpython-310.pyc",
+    "Lib/site-packages/waitress/__pycache__/wasyncore.cpython-310.pyc",
+    "Scripts/waitress-serve-script.py",
+    "Scripts/waitress-serve.exe"
+  ],
+  "fn": "waitress-2.1.2-pyhd8ed1ab_0.tar.bz2",
+  "license": "ZPL-2.0",
+  "link": {
+    "source": "C:\\Users\\omen\\.conda\\pkgs\\waitress-2.1.2-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "6a44302a7502c1c9c7becdc40d465466",
+  "name": "waitress",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\omen\\.conda\\pkgs\\waitress-2.1.2-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/waitress-2.1.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/waitress-2.1.2.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "3e671db11df687516cc1db5b3d65e4aa383eaca3c20cea3faf53a0f7335d0a3c",
+        "sha256_in_prefix": "3e671db11df687516cc1db5b3d65e4aa383eaca3c20cea3faf53a0f7335d0a3c",
+        "size_in_bytes": 2070
+      },
+      {
+        "_path": "site-packages/waitress-2.1.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0fdc2024cc5a1001d2a4ea62a11d43fd570bc11662bc699bf97b62619409eda5",
+        "sha256_in_prefix": "0fdc2024cc5a1001d2a4ea62a11d43fd570bc11662bc699bf97b62619409eda5",
+        "size_in_bytes": 7026
+      },
+      {
+        "_path": "site-packages/waitress-2.1.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "3a874488418c7834095e18b5d1b6af366d437c860e93d6a4f27f4b49358db357",
+        "sha256_in_prefix": "3a874488418c7834095e18b5d1b6af366d437c860e93d6a4f27f4b49358db357",
+        "size_in_bytes": 2880
+      },
+      {
+        "_path": "site-packages/waitress-2.1.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/waitress-2.1.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/waitress-2.1.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "4829e73d2230c2742bc07dd962fb4906a71340eb6cb9a595cf3b3be5ce026963",
+        "sha256_in_prefix": "4829e73d2230c2742bc07dd962fb4906a71340eb6cb9a595cf3b3be5ce026963",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/waitress-2.1.2.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "b4347c7a91b683823bd0b6a4f5dfb5a931db09f07365de450c449c02456e1ff1",
+        "sha256_in_prefix": "b4347c7a91b683823bd0b6a4f5dfb5a931db09f07365de450c449c02456e1ff1",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "site-packages/waitress-2.1.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "fe41675d8b435ef4561d25e9ac7e77879e803368c37d8f98eec8086a45442262",
+        "sha256_in_prefix": "fe41675d8b435ef4561d25e9ac7e77879e803368c37d8f98eec8086a45442262",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/waitress/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5ee70bb2085ac1231395400067a4e8379a8a67224dbf78a8958620c7cd766b9a",
+        "sha256_in_prefix": "5ee70bb2085ac1231395400067a4e8379a8a67224dbf78a8958620c7cd766b9a",
+        "size_in_bytes": 1370
+      },
+      {
+        "_path": "site-packages/waitress/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "e7658922b60a69db068b41bdde310c09f6815da55096e1f2e170667d32d3fbaa",
+        "sha256_in_prefix": "e7658922b60a69db068b41bdde310c09f6815da55096e1f2e170667d32d3fbaa",
+        "size_in_bytes": 75
+      },
+      {
+        "_path": "site-packages/waitress/adjustments.py",
+        "path_type": "hardlink",
+        "sha256": "049651a79f0790d369b2cf5c8aeee1226391776b6c64f39b8eafcde259029288",
+        "sha256_in_prefix": "049651a79f0790d369b2cf5c8aeee1226391776b6c64f39b8eafcde259029288",
+        "size_in_bytes": 18463
+      },
+      {
+        "_path": "site-packages/waitress/buffers.py",
+        "path_type": "hardlink",
+        "sha256": "54d9da940ca3ad08033c7b4ac109eb6309e39ae0c1e6d3b3eacae2fac2baa76e",
+        "sha256_in_prefix": "54d9da940ca3ad08033c7b4ac109eb6309e39ae0c1e6d3b3eacae2fac2baa76e",
+        "size_in_bytes": 9404
+      },
+      {
+        "_path": "site-packages/waitress/channel.py",
+        "path_type": "hardlink",
+        "sha256": "686d8cb16175a216a7ec066334a83cfd470823f9fad4de15563cd6fe0ac7a8e6",
+        "sha256_in_prefix": "686d8cb16175a216a7ec066334a83cfd470823f9fad4de15563cd6fe0ac7a8e6",
+        "size_in_bytes": 19004
+      },
+      {
+        "_path": "site-packages/waitress/compat.py",
+        "path_type": "hardlink",
+        "sha256": "c9eeef06fd122d789c8c9eb600b62b97ceb7314c22b3d3caa9b86c8e20124920",
+        "sha256_in_prefix": "c9eeef06fd122d789c8c9eb600b62b97ceb7314c22b3d3caa9b86c8e20124920",
+        "size_in_bytes": 867
+      },
+      {
+        "_path": "site-packages/waitress/parser.py",
+        "path_type": "hardlink",
+        "sha256": "fe04ee770707dba35beb0914c209e8c20e664f6a8b3ab9ede1892ca400f8e590",
+        "sha256_in_prefix": "fe04ee770707dba35beb0914c209e8c20e664f6a8b3ab9ede1892ca400f8e590",
+        "size_in_bytes": 15570
+      },
+      {
+        "_path": "site-packages/waitress/proxy_headers.py",
+        "path_type": "hardlink",
+        "sha256": "eb9f1395322e0c8b2cfc0dc17534a62268c1f304a3e4bcec85f91850b8804cac",
+        "sha256_in_prefix": "eb9f1395322e0c8b2cfc0dc17534a62268c1f304a3e4bcec85f91850b8804cac",
+        "size_in_bytes": 11811
+      },
+      {
+        "_path": "site-packages/waitress/receiver.py",
+        "path_type": "hardlink",
+        "sha256": "a267165635aaeb5c50dc79848baa753862ecbf645a0329b5d0d43eb2e1c29dc3",
+        "sha256_in_prefix": "a267165635aaeb5c50dc79848baa753862ecbf645a0329b5d0d43eb2e1c29dc3",
+        "size_in_bytes": 5899
+      },
+      {
+        "_path": "site-packages/waitress/rfc7230.py",
+        "path_type": "hardlink",
+        "sha256": "0f5fe455e0896b71bebb88c09e26627854cc7b7c6b31abd38d00c46e3f5205fa",
+        "sha256_in_prefix": "0f5fe455e0896b71bebb88c09e26627854cc7b7c6b31abd38d00c46e3f5205fa",
+        "size_in_bytes": 2525
+      },
+      {
+        "_path": "site-packages/waitress/runner.py",
+        "path_type": "hardlink",
+        "sha256": "6bd6cdc1803197fae05d28bef89550a70bc3200af0b990468150f114cc2e6a61",
+        "sha256_in_prefix": "6bd6cdc1803197fae05d28bef89550a70bc3200af0b990468150f114cc2e6a61",
+        "size_in_bytes": 9334
+      },
+      {
+        "_path": "site-packages/waitress/server.py",
+        "path_type": "hardlink",
+        "sha256": "0de36bfc67b86de3d54ef4e484cc646c7bbfa5bc0b079698f9935e9b2b8d026b",
+        "sha256_in_prefix": "0de36bfc67b86de3d54ef4e484cc646c7bbfa5bc0b079698f9935e9b2b8d026b",
+        "size_in_bytes": 13489
+      },
+      {
+        "_path": "site-packages/waitress/task.py",
+        "path_type": "hardlink",
+        "sha256": "f880a37f31814b4c7b21d76d9cbabcc0839dbcdfe1168b44f969c092ac68486c",
+        "sha256_in_prefix": "f880a37f31814b4c7b21d76d9cbabcc0839dbcdfe1168b44f969c092ac68486c",
+        "size_in_bytes": 21665
+      },
+      {
+        "_path": "site-packages/waitress/trigger.py",
+        "path_type": "hardlink",
+        "sha256": "98fc875bfc940b7627fa26c8216c13598a917b40c97ae6932ba8af398da8ff71",
+        "sha256_in_prefix": "98fc875bfc940b7627fa26c8216c13598a917b40c97ae6932ba8af398da8ff71",
+        "size_in_bytes": 7811
+      },
+      {
+        "_path": "site-packages/waitress/utilities.py",
+        "path_type": "hardlink",
+        "sha256": "64ac905e342b732852f9209b294a3db1bf16beb44c59849ef926fa586b11d7a6",
+        "sha256_in_prefix": "64ac905e342b732852f9209b294a3db1bf16beb44c59849ef926fa586b11d7a6",
+        "size_in_bytes": 6297
+      },
+      {
+        "_path": "site-packages/waitress/wasyncore.py",
+        "path_type": "hardlink",
+        "sha256": "85a9c7cb1000b5d6db8df729f5d874e7a1f3268c9f63578bfec25e310cd8c4e6",
+        "sha256_in_prefix": "85a9c7cb1000b5d6db8df729f5d874e7a1f3268c9f63578bfec25e310cd8c4e6",
+        "size_in_bytes": 21039
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/__main__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/adjustments.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/buffers.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/channel.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/compat.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/parser.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/proxy_headers.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/receiver.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/rfc7230.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/runner.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/server.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/task.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/trigger.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/utilities.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/waitress/__pycache__/wasyncore.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/waitress-serve-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/waitress-serve.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bf474e94d59d5e79c6dda9b4b6f4aa14615ab80517ad2b0b95ae30cbecfbee6e",
+  "size": 47020,
+  "subdir": "noarch",
+  "timestamp": 1653960108000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/waitress-2.1.2-pyhd8ed1ab_0.tar.bz2",
+  "version": "2.1.2"
+}

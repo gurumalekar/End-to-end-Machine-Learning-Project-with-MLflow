@@ -1,0 +1,548 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "importlib-metadata",
+    "markupsafe >=0.9.2",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\omen\\.conda\\pkgs\\mako-1.3.5-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/Mako-1.3.5.dist-info/INSTALLER",
+    "Lib/site-packages/Mako-1.3.5.dist-info/LICENSE",
+    "Lib/site-packages/Mako-1.3.5.dist-info/METADATA",
+    "Lib/site-packages/Mako-1.3.5.dist-info/RECORD",
+    "Lib/site-packages/Mako-1.3.5.dist-info/REQUESTED",
+    "Lib/site-packages/Mako-1.3.5.dist-info/WHEEL",
+    "Lib/site-packages/Mako-1.3.5.dist-info/direct_url.json",
+    "Lib/site-packages/Mako-1.3.5.dist-info/entry_points.txt",
+    "Lib/site-packages/Mako-1.3.5.dist-info/top_level.txt",
+    "Lib/site-packages/mako/__init__.py",
+    "Lib/site-packages/mako/_ast_util.py",
+    "Lib/site-packages/mako/ast.py",
+    "Lib/site-packages/mako/cache.py",
+    "Lib/site-packages/mako/cmd.py",
+    "Lib/site-packages/mako/codegen.py",
+    "Lib/site-packages/mako/compat.py",
+    "Lib/site-packages/mako/exceptions.py",
+    "Lib/site-packages/mako/ext/__init__.py",
+    "Lib/site-packages/mako/ext/autohandler.py",
+    "Lib/site-packages/mako/ext/babelplugin.py",
+    "Lib/site-packages/mako/ext/beaker_cache.py",
+    "Lib/site-packages/mako/ext/extract.py",
+    "Lib/site-packages/mako/ext/linguaplugin.py",
+    "Lib/site-packages/mako/ext/preprocessors.py",
+    "Lib/site-packages/mako/ext/pygmentplugin.py",
+    "Lib/site-packages/mako/ext/turbogears.py",
+    "Lib/site-packages/mako/filters.py",
+    "Lib/site-packages/mako/lexer.py",
+    "Lib/site-packages/mako/lookup.py",
+    "Lib/site-packages/mako/parsetree.py",
+    "Lib/site-packages/mako/pygen.py",
+    "Lib/site-packages/mako/pyparser.py",
+    "Lib/site-packages/mako/runtime.py",
+    "Lib/site-packages/mako/template.py",
+    "Lib/site-packages/mako/testing/__init__.py",
+    "Lib/site-packages/mako/testing/_config.py",
+    "Lib/site-packages/mako/testing/assertions.py",
+    "Lib/site-packages/mako/testing/config.py",
+    "Lib/site-packages/mako/testing/exclusions.py",
+    "Lib/site-packages/mako/testing/fixtures.py",
+    "Lib/site-packages/mako/testing/helpers.py",
+    "Lib/site-packages/mako/util.py",
+    "Lib/site-packages/mako/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/_ast_util.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/ast.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/cache.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/cmd.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/codegen.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/compat.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/exceptions.cpython-310.pyc",
+    "Lib/site-packages/mako/ext/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/mako/ext/__pycache__/autohandler.cpython-310.pyc",
+    "Lib/site-packages/mako/ext/__pycache__/babelplugin.cpython-310.pyc",
+    "Lib/site-packages/mako/ext/__pycache__/beaker_cache.cpython-310.pyc",
+    "Lib/site-packages/mako/ext/__pycache__/extract.cpython-310.pyc",
+    "Lib/site-packages/mako/ext/__pycache__/linguaplugin.cpython-310.pyc",
+    "Lib/site-packages/mako/ext/__pycache__/preprocessors.cpython-310.pyc",
+    "Lib/site-packages/mako/ext/__pycache__/pygmentplugin.cpython-310.pyc",
+    "Lib/site-packages/mako/ext/__pycache__/turbogears.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/filters.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/lexer.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/lookup.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/parsetree.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/pygen.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/pyparser.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/runtime.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/template.cpython-310.pyc",
+    "Lib/site-packages/mako/testing/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/mako/testing/__pycache__/_config.cpython-310.pyc",
+    "Lib/site-packages/mako/testing/__pycache__/assertions.cpython-310.pyc",
+    "Lib/site-packages/mako/testing/__pycache__/config.cpython-310.pyc",
+    "Lib/site-packages/mako/testing/__pycache__/exclusions.cpython-310.pyc",
+    "Lib/site-packages/mako/testing/__pycache__/fixtures.cpython-310.pyc",
+    "Lib/site-packages/mako/testing/__pycache__/helpers.cpython-310.pyc",
+    "Lib/site-packages/mako/__pycache__/util.cpython-310.pyc",
+    "Scripts/mako-render-script.py",
+    "Scripts/mako-render.exe"
+  ],
+  "fn": "mako-1.3.5-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\omen\\.conda\\pkgs\\mako-1.3.5-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "29fddbfa0e2361636a98de4f46ead2ac",
+  "name": "mako",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\omen\\.conda\\pkgs\\mako-1.3.5-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/Mako-1.3.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/Mako-1.3.5.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "15627b36b38d0729cdd686df9abf606503d99d624b2f5ec5cb254a75d5afa891",
+        "sha256_in_prefix": "15627b36b38d0729cdd686df9abf606503d99d624b2f5ec5cb254a75d5afa891",
+        "size_in_bytes": 1098
+      },
+      {
+        "_path": "site-packages/Mako-1.3.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5fcfe3e192cfefdda9c2f40e63e6778ec5be89152b0c6667e66892858e461d9e",
+        "sha256_in_prefix": "5fcfe3e192cfefdda9c2f40e63e6778ec5be89152b0c6667e66892858e461d9e",
+        "size_in_bytes": 2900
+      },
+      {
+        "_path": "site-packages/Mako-1.3.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "0dd0482fd580bea38984dc77a03a3a9d25edb6f0fb566309ba2257ee02d007c1",
+        "sha256_in_prefix": "0dd0482fd580bea38984dc77a03a3a9d25edb6f0fb566309ba2257ee02d007c1",
+        "size_in_bytes": 4923
+      },
+      {
+        "_path": "site-packages/Mako-1.3.5.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/Mako-1.3.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "189eedfe4581172c1b6a02b97a8f48a14c0b5baa3239e4ca990fbd8871553714",
+        "sha256_in_prefix": "189eedfe4581172c1b6a02b97a8f48a14c0b5baa3239e4ca990fbd8871553714",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/Mako-1.3.5.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "354041b2323cd7b138112865fe940c00e1c5fd3b819966f96201cd77d8f20764",
+        "sha256_in_prefix": "354041b2323cd7b138112865fe940c00e1c5fd3b819966f96201cd77d8f20764",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "site-packages/Mako-1.3.5.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "2ec2a452c3ac25061b27633bda16429bdebcc22e4af18c1be6e1710ae37c39b9",
+        "sha256_in_prefix": "2ec2a452c3ac25061b27633bda16429bdebcc22e4af18c1be6e1710ae37c39b9",
+        "size_in_bytes": 512
+      },
+      {
+        "_path": "site-packages/Mako-1.3.5.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2c8b5d1fc7033deb6952ef2b532046dc339b4ba87d19ca6bf63fd62e3d92f91d",
+        "sha256_in_prefix": "2c8b5d1fc7033deb6952ef2b532046dc339b4ba87d19ca6bf63fd62e3d92f91d",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/mako/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "cf320a26c1fff5d2f0bea864e1a46253a5cab0ad07870dfb1a1df2d7ffde8d09",
+        "sha256_in_prefix": "cf320a26c1fff5d2f0bea864e1a46253a5cab0ad07870dfb1a1df2d7ffde8d09",
+        "size_in_bytes": 242
+      },
+      {
+        "_path": "site-packages/mako/_ast_util.py",
+        "path_type": "hardlink",
+        "sha256": "09e9f10ab7444b58ab1c384e414e8b76d6b8addb32b5f61a32437ab344e5bde3",
+        "sha256_in_prefix": "09e9f10ab7444b58ab1c384e414e8b76d6b8addb32b5f61a32437ab344e5bde3",
+        "size_in_bytes": 20247
+      },
+      {
+        "_path": "site-packages/mako/ast.py",
+        "path_type": "hardlink",
+        "sha256": "a58ecc1fee5c2e752e573e58030a068568167e0a15bcb424443b5cfecf6aab0d",
+        "sha256_in_prefix": "a58ecc1fee5c2e752e573e58030a068568167e0a15bcb424443b5cfecf6aab0d",
+        "size_in_bytes": 6642
+      },
+      {
+        "_path": "site-packages/mako/cache.py",
+        "path_type": "hardlink",
+        "sha256": "e43041a2b8f536a8960ea361377649f2d3029be87a31ec39e35dbbea476cc405",
+        "sha256_in_prefix": "e43041a2b8f536a8960ea361377649f2d3029be87a31ec39e35dbbea476cc405",
+        "size_in_bytes": 7680
+      },
+      {
+        "_path": "site-packages/mako/cmd.py",
+        "path_type": "hardlink",
+        "sha256": "bcfe4ce60f72739b23013e68c154d0bb4e7a630c92f98929ba51520dbd08306c",
+        "sha256_in_prefix": "bcfe4ce60f72739b23013e68c154d0bb4e7a630c92f98929ba51520dbd08306c",
+        "size_in_bytes": 2813
+      },
+      {
+        "_path": "site-packages/mako/codegen.py",
+        "path_type": "hardlink",
+        "sha256": "5d187372e18495e0d45d37e63a3c386a56fa4e47336e611f0422ea203f31e1b0",
+        "sha256_in_prefix": "5d187372e18495e0d45d37e63a3c386a56fa4e47336e611f0422ea203f31e1b0",
+        "size_in_bytes": 47736
+      },
+      {
+        "_path": "site-packages/mako/compat.py",
+        "path_type": "hardlink",
+        "sha256": "c2354c7fbb8c8344e50bf688e617705a2cf36bdf67a89b8635dae74cdad96edd",
+        "sha256_in_prefix": "c2354c7fbb8c8344e50bf688e617705a2cf36bdf67a89b8635dae74cdad96edd",
+        "size_in_bytes": 1820
+      },
+      {
+        "_path": "site-packages/mako/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "a5f75de7ed65099fbe23662a43fa0738364b9a8eb66e7fe53b92b3ff5fffef6c",
+        "sha256_in_prefix": "a5f75de7ed65099fbe23662a43fa0738364b9a8eb66e7fe53b92b3ff5fffef6c",
+        "size_in_bytes": 12530
+      },
+      {
+        "_path": "site-packages/mako/ext/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/mako/ext/autohandler.py",
+        "path_type": "hardlink",
+        "sha256": "4f2cf508b4651bf0b41272a08ee1f3a92e01067a5e038f4ed39c7caeb88db536",
+        "sha256_in_prefix": "4f2cf508b4651bf0b41272a08ee1f3a92e01067a5e038f4ed39c7caeb88db536",
+        "size_in_bytes": 1885
+      },
+      {
+        "_path": "site-packages/mako/ext/babelplugin.py",
+        "path_type": "hardlink",
+        "sha256": "bf5d28e5741d817c1baf56e8d1a2fc555dd31e6ffce02fde7aae8198019ddee0",
+        "sha256_in_prefix": "bf5d28e5741d817c1baf56e8d1a2fc555dd31e6ffce02fde7aae8198019ddee0",
+        "size_in_bytes": 2091
+      },
+      {
+        "_path": "site-packages/mako/ext/beaker_cache.py",
+        "path_type": "hardlink",
+        "sha256": "680b3d10bcced966a23b93a9a55e0a0d3e9fef23729f5045d571c3419c1fd3e1",
+        "sha256_in_prefix": "680b3d10bcced966a23b93a9a55e0a0d3e9fef23729f5045d571c3419c1fd3e1",
+        "size_in_bytes": 2578
+      },
+      {
+        "_path": "site-packages/mako/ext/extract.py",
+        "path_type": "hardlink",
+        "sha256": "73762e20ddd9e59812fb1cd7fe08caac45506a9b4ade5897926e63f95abcc843",
+        "sha256_in_prefix": "73762e20ddd9e59812fb1cd7fe08caac45506a9b4ade5897926e63f95abcc843",
+        "size_in_bytes": 4659
+      },
+      {
+        "_path": "site-packages/mako/ext/linguaplugin.py",
+        "path_type": "hardlink",
+        "sha256": "a731e51c2dfe2a515e540478afc4b5fbefdd7c4e437189a32d7b6bd207a70585",
+        "sha256_in_prefix": "a731e51c2dfe2a515e540478afc4b5fbefdd7c4e437189a32d7b6bd207a70585",
+        "size_in_bytes": 1935
+      },
+      {
+        "_path": "site-packages/mako/ext/preprocessors.py",
+        "path_type": "hardlink",
+        "sha256": "cca432e3609ee9d3a6534624feb5150c0027dfcf915147d0a2554a4c98cba2d0",
+        "sha256_in_prefix": "cca432e3609ee9d3a6534624feb5150c0027dfcf915147d0a2554a4c98cba2d0",
+        "size_in_bytes": 576
+      },
+      {
+        "_path": "site-packages/mako/ext/pygmentplugin.py",
+        "path_type": "hardlink",
+        "sha256": "a8176c0212a4b65417edde58bf5b005ee7d434e66a7272662ae0bb5780ffb2b3",
+        "sha256_in_prefix": "a8176c0212a4b65417edde58bf5b005ee7d434e66a7272662ae0bb5780ffb2b3",
+        "size_in_bytes": 4753
+      },
+      {
+        "_path": "site-packages/mako/ext/turbogears.py",
+        "path_type": "hardlink",
+        "sha256": "d1e998d5688c9ee63c3dfe8046fe49040acab68b94766b9396323ec3aac4dc9e",
+        "sha256_in_prefix": "d1e998d5688c9ee63c3dfe8046fe49040acab68b94766b9396323ec3aac4dc9e",
+        "size_in_bytes": 2141
+      },
+      {
+        "_path": "site-packages/mako/filters.py",
+        "path_type": "hardlink",
+        "sha256": "17b68320a4d4c674fe3a0e2b81ba10b6730bed0f3b0c94c7432862fdd63f221e",
+        "sha256_in_prefix": "17b68320a4d4c674fe3a0e2b81ba10b6730bed0f3b0c94c7432862fdd63f221e",
+        "size_in_bytes": 4658
+      },
+      {
+        "_path": "site-packages/mako/lexer.py",
+        "path_type": "hardlink",
+        "sha256": "76d0995357a8177ca611d882c02cc4230e521f49602640ec1c9cbd54723fd976",
+        "sha256_in_prefix": "76d0995357a8177ca611d882c02cc4230e521f49602640ec1c9cbd54723fd976",
+        "size_in_bytes": 16324
+      },
+      {
+        "_path": "site-packages/mako/lookup.py",
+        "path_type": "hardlink",
+        "sha256": "ae432f4f94fb10e4b9291bcfb606228beb238759d65b22a893f98493e704ceb3",
+        "sha256_in_prefix": "ae432f4f94fb10e4b9291bcfb606228beb238759d65b22a893f98493e704ceb3",
+        "size_in_bytes": 12428
+      },
+      {
+        "_path": "site-packages/mako/parsetree.py",
+        "path_type": "hardlink",
+        "sha256": "ed1355453b0a72c32df2f5383508b90bb7b8be1754c80f6dab2775c8892f0004",
+        "sha256_in_prefix": "ed1355453b0a72c32df2f5383508b90bb7b8be1754c80f6dab2775c8892f0004",
+        "size_in_bytes": 19007
+      },
+      {
+        "_path": "site-packages/mako/pygen.py",
+        "path_type": "hardlink",
+        "sha256": "7787ffba04400825ee57d84980493a35ca23dfc11a447037453c64affb4aed44",
+        "sha256_in_prefix": "7787ffba04400825ee57d84980493a35ca23dfc11a447037453c64affb4aed44",
+        "size_in_bytes": 10416
+      },
+      {
+        "_path": "site-packages/mako/pyparser.py",
+        "path_type": "hardlink",
+        "sha256": "798fdaf784035da2b7bc80368d9613f6ca3ba1728a24b4f448efd8ae5dc839bf",
+        "sha256_in_prefix": "798fdaf784035da2b7bc80368d9613f6ca3ba1728a24b4f448efd8ae5dc839bf",
+        "size_in_bytes": 7478
+      },
+      {
+        "_path": "site-packages/mako/runtime.py",
+        "path_type": "hardlink",
+        "sha256": "66c504376da75f7777744090ba317af6604a0d04bac95bf69efcffd1e4ef1468",
+        "sha256_in_prefix": "66c504376da75f7777744090ba317af6604a0d04bac95bf69efcffd1e4ef1468",
+        "size_in_bytes": 27804
+      },
+      {
+        "_path": "site-packages/mako/template.py",
+        "path_type": "hardlink",
+        "sha256": "e31433c2bb997795f33f0ee238d64c6498f849d16c72d6188383df058b363cb9",
+        "sha256_in_prefix": "e31433c2bb997795f33f0ee238d64c6498f849d16c72d6188383df058b363cb9",
+        "size_in_bytes": 23857
+      },
+      {
+        "_path": "site-packages/mako/testing/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/mako/testing/_config.py",
+        "path_type": "hardlink",
+        "sha256": "93eaa99ec9db5d4a0dfb290c379051a60f388b5c74a7a52c01d74a427ac8cad5",
+        "sha256_in_prefix": "93eaa99ec9db5d4a0dfb290c379051a60f388b5c74a7a52c01d74a427ac8cad5",
+        "size_in_bytes": 3566
+      },
+      {
+        "_path": "site-packages/mako/testing/assertions.py",
+        "path_type": "hardlink",
+        "sha256": "a5f6c697ce10956ed0586837fe5a37c0ff179c1015a3d023ccda766a39a7ec50",
+        "sha256_in_prefix": "a5f6c697ce10956ed0586837fe5a37c0ff179c1015a3d023ccda766a39a7ec50",
+        "size_in_bytes": 5161
+      },
+      {
+        "_path": "site-packages/mako/testing/config.py",
+        "path_type": "hardlink",
+        "sha256": "c2661565fcc6bce2b7989519a739a03bcfa2220bda087e355a88b8c83a71aba1",
+        "sha256_in_prefix": "c2661565fcc6bce2b7989519a739a03bcfa2220bda087e355a88b8c83a71aba1",
+        "size_in_bytes": 323
+      },
+      {
+        "_path": "site-packages/mako/testing/exclusions.py",
+        "path_type": "hardlink",
+        "sha256": "fede800ca75ab64ddfd7cb4e7c757f658eaefd9c10b0aa6167631725548039c2",
+        "sha256_in_prefix": "fede800ca75ab64ddfd7cb4e7c757f658eaefd9c10b0aa6167631725548039c2",
+        "size_in_bytes": 1553
+      },
+      {
+        "_path": "site-packages/mako/testing/fixtures.py",
+        "path_type": "hardlink",
+        "sha256": "9c4a7bc13bac7fb1349f743e047256dacfedd6fc74281f69a1a750d419882731",
+        "sha256_in_prefix": "9c4a7bc13bac7fb1349f743e047256dacfedd6fc74281f69a1a750d419882731",
+        "size_in_bytes": 3044
+      },
+      {
+        "_path": "site-packages/mako/testing/helpers.py",
+        "path_type": "hardlink",
+        "sha256": "cf81c069cb70961b78badd5c6efc4ab7540b6f7c8b3e4d54edc9e1e41c155257",
+        "sha256_in_prefix": "cf81c069cb70961b78badd5c6efc4ab7540b6f7c8b3e4d54edc9e1e41c155257",
+        "size_in_bytes": 1623
+      },
+      {
+        "_path": "site-packages/mako/util.py",
+        "path_type": "hardlink",
+        "sha256": "74816e7211df88db51249f7d904211747064099dd4984bcd3ba9766504827555",
+        "sha256_in_prefix": "74816e7211df88db51249f7d904211747064099dd4984bcd3ba9766504827555",
+        "size_in_bytes": 10638
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/_ast_util.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/ast.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/cache.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/cmd.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/codegen.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/compat.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/exceptions.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/ext/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/ext/__pycache__/autohandler.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/ext/__pycache__/babelplugin.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/ext/__pycache__/beaker_cache.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/ext/__pycache__/extract.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/ext/__pycache__/linguaplugin.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/ext/__pycache__/preprocessors.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/ext/__pycache__/pygmentplugin.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/ext/__pycache__/turbogears.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/filters.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/lexer.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/lookup.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/parsetree.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/pygen.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/pyparser.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/runtime.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/template.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/testing/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/testing/__pycache__/_config.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/testing/__pycache__/assertions.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/testing/__pycache__/config.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/testing/__pycache__/exclusions.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/testing/__pycache__/fixtures.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/testing/__pycache__/helpers.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/mako/__pycache__/util.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/mako-render-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/mako-render.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f0b982e18e31ad373dd8f22ef5ffa0ae112fc13c573a5eb614814b4081c3ddcb",
+  "size": 67147,
+  "subdir": "noarch",
+  "timestamp": 1715711478000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/mako-1.3.5-pyhd8ed1ab_0.conda",
+  "version": "1.3.5"
+}

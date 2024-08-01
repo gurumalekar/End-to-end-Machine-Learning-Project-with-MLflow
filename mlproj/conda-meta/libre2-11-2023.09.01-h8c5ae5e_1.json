@@ -1,0 +1,47 @@
+{
+  "build": "h8c5ae5e_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "re2 2023.09.01.*"
+  ],
+  "depends": [
+    "libabseil * cxx17*",
+    "libabseil >=20230802.1,<20230803.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\omen\\.conda\\pkgs\\libre2-11-2023.09.01-h8c5ae5e_1",
+  "files": [
+    "Library/bin/re2.dll"
+  ],
+  "fn": "libre2-11-2023.09.01-h8c5ae5e_1.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\omen\\.conda\\pkgs\\libre2-11-2023.09.01-h8c5ae5e_1",
+    "type": 1
+  },
+  "md5": "32f3e1f111ec25def4603b25cb34495c",
+  "name": "libre2-11",
+  "package_tarball_full_path": "C:\\Users\\omen\\.conda\\pkgs\\libre2-11-2023.09.01-h8c5ae5e_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/re2.dll",
+        "path_type": "hardlink",
+        "sha256": "bef746ed8f13279940f0d081b073761402699c0f031cbf6e1c2bfe747cb98ca1",
+        "sha256_in_prefix": "bef746ed8f13279940f0d081b073761402699c0f031cbf6e1c2bfe747cb98ca1",
+        "size_in_bytes": 1129472
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a61abf0b2e3fca56bc6ff7a64aa48f7626445c8e53d32212a2b5dbb77b245e38",
+  "size": 255349,
+  "subdir": "win-64",
+  "timestamp": 1708945799000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libre2-11-2023.09.01-h8c5ae5e_1.conda",
+  "version": "2023.09.01"
+}

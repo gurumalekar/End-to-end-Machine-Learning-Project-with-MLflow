@@ -1,0 +1,127 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "flask",
+    "prometheus_client",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\omen\\.conda\\pkgs\\prometheus_flask_exporter-0.23.1-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/prometheus_flask_exporter-0.23.1.dist-info/INSTALLER",
+    "Lib/site-packages/prometheus_flask_exporter-0.23.1.dist-info/LICENSE",
+    "Lib/site-packages/prometheus_flask_exporter-0.23.1.dist-info/METADATA",
+    "Lib/site-packages/prometheus_flask_exporter-0.23.1.dist-info/RECORD",
+    "Lib/site-packages/prometheus_flask_exporter-0.23.1.dist-info/REQUESTED",
+    "Lib/site-packages/prometheus_flask_exporter-0.23.1.dist-info/WHEEL",
+    "Lib/site-packages/prometheus_flask_exporter-0.23.1.dist-info/direct_url.json",
+    "Lib/site-packages/prometheus_flask_exporter-0.23.1.dist-info/top_level.txt",
+    "Lib/site-packages/prometheus_flask_exporter/__init__.py",
+    "Lib/site-packages/prometheus_flask_exporter/multiprocess.py",
+    "Lib/site-packages/prometheus_flask_exporter/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/prometheus_flask_exporter/__pycache__/multiprocess.cpython-310.pyc"
+  ],
+  "fn": "prometheus_flask_exporter-0.23.1-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\omen\\.conda\\pkgs\\prometheus_flask_exporter-0.23.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "dfd56de42e5f27683b7f769c6340cf00",
+  "name": "prometheus_flask_exporter",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\omen\\.conda\\pkgs\\prometheus_flask_exporter-0.23.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/prometheus_flask_exporter-0.23.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/prometheus_flask_exporter-0.23.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f9463db4e14503aba1fb2f7d2cd256c2734fe2a71d7de5103ee9df897afcd445",
+        "sha256_in_prefix": "f9463db4e14503aba1fb2f7d2cd256c2734fe2a71d7de5103ee9df897afcd445",
+        "size_in_bytes": 1068
+      },
+      {
+        "_path": "site-packages/prometheus_flask_exporter-0.23.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5a89a3220f3db948b15192ad37e1a87ce6bae2df718da05a191d63f7eed0aa8f",
+        "sha256_in_prefix": "5a89a3220f3db948b15192ad37e1a87ce6bae2df718da05a191d63f7eed0aa8f",
+        "size_in_bytes": 19780
+      },
+      {
+        "_path": "site-packages/prometheus_flask_exporter-0.23.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "3a17743d15ad1b6ffc88507586f113461869aec87b65c1ed09d15181998a3569",
+        "sha256_in_prefix": "3a17743d15ad1b6ffc88507586f113461869aec87b65c1ed09d15181998a3569",
+        "size_in_bytes": 1147
+      },
+      {
+        "_path": "site-packages/prometheus_flask_exporter-0.23.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/prometheus_flask_exporter-0.23.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cb8997f92397e1f6089289ec0060393743b2fbcfe0238157c391cd235c6abd68",
+        "sha256_in_prefix": "cb8997f92397e1f6089289ec0060393743b2fbcfe0238157c391cd235c6abd68",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "site-packages/prometheus_flask_exporter-0.23.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "9fe629adb33b6f7ea3a5ca9c0a812ee67c1bb79e348378aaf1176d90e7ad3536",
+        "sha256_in_prefix": "9fe629adb33b6f7ea3a5ca9c0a812ee67c1bb79e348378aaf1176d90e7ad3536",
+        "size_in_bytes": 121
+      },
+      {
+        "_path": "site-packages/prometheus_flask_exporter-0.23.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "86a1839a082d73ca3be94e24f3bd39c58fe43a3cab3e197f02f32d3a175effae",
+        "sha256_in_prefix": "86a1839a082d73ca3be94e24f3bd39c58fe43a3cab3e197f02f32d3a175effae",
+        "size_in_bytes": 26
+      },
+      {
+        "_path": "site-packages/prometheus_flask_exporter/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4267e6b179bb9e61e6826c2f76f7583ec5d89eac48cfc7fa9804970388f365df",
+        "sha256_in_prefix": "4267e6b179bb9e61e6826c2f76f7583ec5d89eac48cfc7fa9804970388f365df",
+        "size_in_bytes": 38025
+      },
+      {
+        "_path": "site-packages/prometheus_flask_exporter/multiprocess.py",
+        "path_type": "hardlink",
+        "sha256": "c2bc2fd63f3a1e111a8fe518425e57c12028d14ee8e9025063f4fc4e3e3f5f18",
+        "sha256_in_prefix": "c2bc2fd63f3a1e111a8fe518425e57c12028d14ee8e9025063f4fc4e3e3f5f18",
+        "size_in_bytes": 8417
+      },
+      {
+        "_path": "Lib/site-packages/prometheus_flask_exporter/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prometheus_flask_exporter/__pycache__/multiprocess.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9fa96ec22c37fabdcd739e944931b44fcf5e1b41c3e4ca5cf039ba67f1e5d645",
+  "size": 22335,
+  "subdir": "noarch",
+  "timestamp": 1720670400000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/prometheus_flask_exporter-0.23.1-pyhd8ed1ab_0.conda",
+  "version": "0.23.1"
+}

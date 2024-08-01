@@ -1,0 +1,36 @@
+{
+  "build": "ha5ead02_4",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "bzip2 >=1.0.8,<2.0a0",
+    "libboost-devel 1.85.0 h91493d7_4",
+    "libiconv >=1.17,<2.0a0",
+    "libzlib >=1.3.1,<2.0a0",
+    "xz >=5.2.6,<6.0a0",
+    "zstd >=1.5.6,<1.6.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\omen\\.conda\\pkgs\\boost-cpp-1.85.0-ha5ead02_4",
+  "files": [],
+  "fn": "boost-cpp-1.85.0-ha5ead02_4.conda",
+  "license": "BSL-1.0",
+  "link": {
+    "source": "C:\\Users\\omen\\.conda\\pkgs\\boost-cpp-1.85.0-ha5ead02_4",
+    "type": 1
+  },
+  "md5": "dbfe65fc56fc8c5cc13476954a0c438b",
+  "name": "boost-cpp",
+  "package_tarball_full_path": "C:\\Users\\omen\\.conda\\pkgs\\boost-cpp-1.85.0-ha5ead02_4.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5e66d24b08753e31037d1ec785d5a37c83e709d3eb2ce4109d6ae3cc9d060c22",
+  "size": 18645,
+  "subdir": "win-64",
+  "timestamp": 1722291848000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/boost-cpp-1.85.0-ha5ead02_4.conda",
+  "version": "1.85.0"
+}

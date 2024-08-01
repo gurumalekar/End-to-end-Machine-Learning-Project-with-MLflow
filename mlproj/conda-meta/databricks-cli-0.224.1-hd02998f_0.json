@@ -1,0 +1,39 @@
+{
+  "build": "hd02998f_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\omen\\.conda\\pkgs\\databricks-cli-0.224.1-hd02998f_0",
+  "files": [
+    "bin/databricks.exe"
+  ],
+  "fn": "databricks-cli-0.224.1-hd02998f_0.conda",
+  "license": "LicenseRef-Databricks-License",
+  "link": {
+    "source": "C:\\Users\\omen\\.conda\\pkgs\\databricks-cli-0.224.1-hd02998f_0",
+    "type": 1
+  },
+  "md5": "05f6393b47339c66bc7cf79addac70c8",
+  "name": "databricks-cli",
+  "package_tarball_full_path": "C:\\Users\\omen\\.conda\\pkgs\\databricks-cli-0.224.1-hd02998f_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/databricks.exe",
+        "path_type": "hardlink",
+        "sha256": "a9574961c5822f19ae5261633e7dec89b8178a84908e1e853532c5cfc2f5a6d2",
+        "sha256_in_prefix": "a9574961c5822f19ae5261633e7dec89b8178a84908e1e853532c5cfc2f5a6d2",
+        "size_in_bytes": 41716224
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4170c7d9caff6bdec86ffabc7fe3fbeeb8b309dee1937fdb7180773143822040",
+  "size": 17002666,
+  "subdir": "win-64",
+  "timestamp": 1722146874000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/databricks-cli-0.224.1-hd02998f_0.conda",
+  "version": "0.224.1"
+}

@@ -1,0 +1,31 @@
+{
+  "build": "h57928b3_60_cpu",
+  "build_number": 60,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libarrow 11.0.0 h3ebc5eb_60_cpu"
+  ],
+  "extracted_package_dir": "C:\\Users\\omen\\.conda\\pkgs\\arrow-cpp-11.0.0-h57928b3_60_cpu",
+  "files": [],
+  "fn": "arrow-cpp-11.0.0-h57928b3_60_cpu.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\omen\\.conda\\pkgs\\arrow-cpp-11.0.0-h57928b3_60_cpu",
+    "type": 1
+  },
+  "md5": "26444b6d1e1a7f4391d484374b6f8127",
+  "name": "arrow-cpp",
+  "package_tarball_full_path": "C:\\Users\\omen\\.conda\\pkgs\\arrow-cpp-11.0.0-h57928b3_60_cpu.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b76e66cdeb8fa5a71ab6c46a7a78bb87ba1c36a14a55ba479987f24823eae2ea",
+  "size": 39137,
+  "subdir": "win-64",
+  "timestamp": 1706705538000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/arrow-cpp-11.0.0-h57928b3_60_cpu.conda",
+  "version": "11.0.0"
+}

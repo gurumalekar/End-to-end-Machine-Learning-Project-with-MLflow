@@ -1,0 +1,42 @@
+{
+  "build": "hc7cbac0_5",
+  "build_number": 5,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "google-cloud-cpp 2.12.0 *_5"
+  ],
+  "depends": [
+    "libabseil * cxx17*",
+    "libabseil >=20230802.1,<20230803.0a0",
+    "libcrc32c >=1.1.2,<1.2.0a0",
+    "libcurl >=8.5.0,<9.0a0",
+    "libgrpc >=1.60.0,<1.61.0a0",
+    "libprotobuf >=4.25.1,<4.25.2.0a0",
+    "openssl >=3.2.0,<4.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\omen\\.conda\\pkgs\\libgoogle-cloud-2.12.0-hc7cbac0_5",
+  "files": [],
+  "fn": "libgoogle-cloud-2.12.0-hc7cbac0_5.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\omen\\.conda\\pkgs\\libgoogle-cloud-2.12.0-hc7cbac0_5",
+    "type": 1
+  },
+  "md5": "1f219361b6f83f8e7ab4d2c67ff06ce4",
+  "name": "libgoogle-cloud",
+  "package_tarball_full_path": "C:\\Users\\omen\\.conda\\pkgs\\libgoogle-cloud-2.12.0-hc7cbac0_5.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "03f360345841ecb6cdc6a3a3a75a04e29d2f53e5fc180822d9ebef5d131a9007",
+  "size": 13304,
+  "subdir": "win-64",
+  "timestamp": 1706080367000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libgoogle-cloud-2.12.0-hc7cbac0_5.conda",
+  "version": "2.12.0"
+}

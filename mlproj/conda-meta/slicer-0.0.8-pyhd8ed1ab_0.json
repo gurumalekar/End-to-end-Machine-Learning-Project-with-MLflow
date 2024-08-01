@@ -1,0 +1,164 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\omen\\.conda\\pkgs\\slicer-0.0.8-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/slicer-0.0.8.dist-info/INSTALLER",
+    "Lib/site-packages/slicer-0.0.8.dist-info/LICENSE",
+    "Lib/site-packages/slicer-0.0.8.dist-info/METADATA",
+    "Lib/site-packages/slicer-0.0.8.dist-info/RECORD",
+    "Lib/site-packages/slicer-0.0.8.dist-info/REQUESTED",
+    "Lib/site-packages/slicer-0.0.8.dist-info/WHEEL",
+    "Lib/site-packages/slicer-0.0.8.dist-info/direct_url.json",
+    "Lib/site-packages/slicer-0.0.8.dist-info/top_level.txt",
+    "Lib/site-packages/slicer/__init__.py",
+    "Lib/site-packages/slicer/slicer.py",
+    "Lib/site-packages/slicer/slicer_internal.py",
+    "Lib/site-packages/slicer/test_slicer.py",
+    "Lib/site-packages/slicer/utils_testing.py",
+    "Lib/site-packages/slicer/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/slicer/__pycache__/slicer.cpython-310.pyc",
+    "Lib/site-packages/slicer/__pycache__/slicer_internal.cpython-310.pyc",
+    "Lib/site-packages/slicer/__pycache__/test_slicer.cpython-310.pyc",
+    "Lib/site-packages/slicer/__pycache__/utils_testing.cpython-310.pyc"
+  ],
+  "fn": "slicer-0.0.8-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\omen\\.conda\\pkgs\\slicer-0.0.8-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "f6f75ceccf92ddb21665b03cfbfa7800",
+  "name": "slicer",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\omen\\.conda\\pkgs\\slicer-0.0.8-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/slicer-0.0.8.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/slicer-0.0.8.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "dbc9b3974585925d193a320c798c9e8a70f9d6808cffd784c7e2c5dcf8f5bf72",
+        "sha256_in_prefix": "dbc9b3974585925d193a320c798c9e8a70f9d6808cffd784c7e2c5dcf8f5bf72",
+        "size_in_bytes": 1106
+      },
+      {
+        "_path": "site-packages/slicer-0.0.8.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "bfd8f656f5506f54774311e936f97cf3f9d91502aee9e6b90bc6e9657668d0bf",
+        "sha256_in_prefix": "bfd8f656f5506f54774311e936f97cf3f9d91502aee9e6b90bc6e9657668d0bf",
+        "size_in_bytes": 3837
+      },
+      {
+        "_path": "site-packages/slicer-0.0.8.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "daf5401c551d932ad63dab2741c300f9d99f3128780f5cc0af04a5e510453dc4",
+        "sha256_in_prefix": "daf5401c551d932ad63dab2741c300f9d99f3128780f5cc0af04a5e510453dc4",
+        "size_in_bytes": 1295
+      },
+      {
+        "_path": "site-packages/slicer-0.0.8.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/slicer-0.0.8.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a2241587fe4f9d033413780f762cf4f5608d9b08870cc6867abfde96a0777283",
+        "sha256_in_prefix": "a2241587fe4f9d033413780f762cf4f5608d9b08870cc6867abfde96a0777283",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/slicer-0.0.8.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "b62e634b093ec69dc9c41a00716eda673c4bf769596953599b95e1db3413f079",
+        "sha256_in_prefix": "b62e634b093ec69dc9c41a00716eda673c4bf769596953599b95e1db3413f079",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "site-packages/slicer-0.0.8.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "b672d1e7d21f6e1eeaec1fc36b090790fb0b70dd94190ba5ec1b2c414311fb94",
+        "sha256_in_prefix": "b672d1e7d21f6e1eeaec1fc36b090790fb0b70dd94190ba5ec1b2c414311fb94",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "site-packages/slicer/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "28093f927a433df20e7e88e21c6bcf6c5a50e4869c3e8bcf1596bb9edc9b095a",
+        "sha256_in_prefix": "28093f927a433df20e7e88e21c6bcf6c5a50e4869c3e8bcf1596bb9edc9b095a",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "site-packages/slicer/slicer.py",
+        "path_type": "hardlink",
+        "sha256": "7648c6d10b2a52809b15f701d48d9da90ffba19a13daceaf7df5a834be4a3008",
+        "sha256_in_prefix": "7648c6d10b2a52809b15f701d48d9da90ffba19a13daceaf7df5a834be4a3008",
+        "size_in_bytes": 8959
+      },
+      {
+        "_path": "site-packages/slicer/slicer_internal.py",
+        "path_type": "hardlink",
+        "sha256": "4e4a551813ebbab8fc2f598837871a066cb29ad6044f302d139967856762baa4",
+        "sha256_in_prefix": "4e4a551813ebbab8fc2f598837871a066cb29ad6044f302d139967856762baa4",
+        "size_in_bytes": 21803
+      },
+      {
+        "_path": "site-packages/slicer/test_slicer.py",
+        "path_type": "hardlink",
+        "sha256": "36fd8cbe11e6183d9c7eb3cf67acc3f78a244537d2ff32fc36e7606afd70aec6",
+        "sha256_in_prefix": "36fd8cbe11e6183d9c7eb3cf67acc3f78a244537d2ff32fc36e7606afd70aec6",
+        "size_in_bytes": 14305
+      },
+      {
+        "_path": "site-packages/slicer/utils_testing.py",
+        "path_type": "hardlink",
+        "sha256": "3e1e03abc1efd0f13eeb05f0cb581f4665d57f9ac3788ddda389e3dd9236163e",
+        "sha256_in_prefix": "3e1e03abc1efd0f13eeb05f0cb581f4665d57f9ac3788ddda389e3dd9236163e",
+        "size_in_bytes": 1694
+      },
+      {
+        "_path": "Lib/site-packages/slicer/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/slicer/__pycache__/slicer.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/slicer/__pycache__/slicer_internal.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/slicer/__pycache__/test_slicer.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/slicer/__pycache__/utils_testing.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "915b33075b7aa0c9f339038e2747394e949c34035f74104530a643f895ace621",
+  "size": 19955,
+  "subdir": "noarch",
+  "timestamp": 1710029264000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/slicer-0.0.8-pyhd8ed1ab_0.conda",
+  "version": "0.0.8"
+}

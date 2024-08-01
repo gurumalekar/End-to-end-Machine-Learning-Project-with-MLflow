@@ -1,0 +1,989 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "packaging >=14.0",
+    "paramiko >=2.4.3",
+    "python >=3.7",
+    "pywin32-on-windows",
+    "requests >=2.26.0",
+    "urllib3 >=1.26.0",
+    "websocket-client >=0.32.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\omen\\.conda\\pkgs\\docker-py-6.1.3-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/docker-6.1.3.dist-info/INSTALLER",
+    "Lib/site-packages/docker-6.1.3.dist-info/LICENSE",
+    "Lib/site-packages/docker-6.1.3.dist-info/METADATA",
+    "Lib/site-packages/docker-6.1.3.dist-info/RECORD",
+    "Lib/site-packages/docker-6.1.3.dist-info/REQUESTED",
+    "Lib/site-packages/docker-6.1.3.dist-info/WHEEL",
+    "Lib/site-packages/docker-6.1.3.dist-info/direct_url.json",
+    "Lib/site-packages/docker-6.1.3.dist-info/top_level.txt",
+    "Lib/site-packages/docker/__init__.py",
+    "Lib/site-packages/docker/_version.py",
+    "Lib/site-packages/docker/api/__init__.py",
+    "Lib/site-packages/docker/api/build.py",
+    "Lib/site-packages/docker/api/client.py",
+    "Lib/site-packages/docker/api/config.py",
+    "Lib/site-packages/docker/api/container.py",
+    "Lib/site-packages/docker/api/daemon.py",
+    "Lib/site-packages/docker/api/exec_api.py",
+    "Lib/site-packages/docker/api/image.py",
+    "Lib/site-packages/docker/api/network.py",
+    "Lib/site-packages/docker/api/plugin.py",
+    "Lib/site-packages/docker/api/secret.py",
+    "Lib/site-packages/docker/api/service.py",
+    "Lib/site-packages/docker/api/swarm.py",
+    "Lib/site-packages/docker/api/volume.py",
+    "Lib/site-packages/docker/auth.py",
+    "Lib/site-packages/docker/client.py",
+    "Lib/site-packages/docker/constants.py",
+    "Lib/site-packages/docker/context/__init__.py",
+    "Lib/site-packages/docker/context/api.py",
+    "Lib/site-packages/docker/context/config.py",
+    "Lib/site-packages/docker/context/context.py",
+    "Lib/site-packages/docker/credentials/__init__.py",
+    "Lib/site-packages/docker/credentials/constants.py",
+    "Lib/site-packages/docker/credentials/errors.py",
+    "Lib/site-packages/docker/credentials/store.py",
+    "Lib/site-packages/docker/credentials/utils.py",
+    "Lib/site-packages/docker/errors.py",
+    "Lib/site-packages/docker/models/__init__.py",
+    "Lib/site-packages/docker/models/configs.py",
+    "Lib/site-packages/docker/models/containers.py",
+    "Lib/site-packages/docker/models/images.py",
+    "Lib/site-packages/docker/models/networks.py",
+    "Lib/site-packages/docker/models/nodes.py",
+    "Lib/site-packages/docker/models/plugins.py",
+    "Lib/site-packages/docker/models/resource.py",
+    "Lib/site-packages/docker/models/secrets.py",
+    "Lib/site-packages/docker/models/services.py",
+    "Lib/site-packages/docker/models/swarm.py",
+    "Lib/site-packages/docker/models/volumes.py",
+    "Lib/site-packages/docker/tls.py",
+    "Lib/site-packages/docker/transport/__init__.py",
+    "Lib/site-packages/docker/transport/basehttpadapter.py",
+    "Lib/site-packages/docker/transport/npipeconn.py",
+    "Lib/site-packages/docker/transport/npipesocket.py",
+    "Lib/site-packages/docker/transport/sshconn.py",
+    "Lib/site-packages/docker/transport/ssladapter.py",
+    "Lib/site-packages/docker/transport/unixconn.py",
+    "Lib/site-packages/docker/types/__init__.py",
+    "Lib/site-packages/docker/types/base.py",
+    "Lib/site-packages/docker/types/containers.py",
+    "Lib/site-packages/docker/types/daemon.py",
+    "Lib/site-packages/docker/types/healthcheck.py",
+    "Lib/site-packages/docker/types/networks.py",
+    "Lib/site-packages/docker/types/services.py",
+    "Lib/site-packages/docker/types/swarm.py",
+    "Lib/site-packages/docker/utils/__init__.py",
+    "Lib/site-packages/docker/utils/build.py",
+    "Lib/site-packages/docker/utils/config.py",
+    "Lib/site-packages/docker/utils/decorators.py",
+    "Lib/site-packages/docker/utils/fnmatch.py",
+    "Lib/site-packages/docker/utils/json_stream.py",
+    "Lib/site-packages/docker/utils/ports.py",
+    "Lib/site-packages/docker/utils/proxy.py",
+    "Lib/site-packages/docker/utils/socket.py",
+    "Lib/site-packages/docker/utils/utils.py",
+    "Lib/site-packages/docker/version.py",
+    "Lib/site-packages/docker/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/docker/__pycache__/_version.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/build.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/client.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/config.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/container.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/daemon.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/exec_api.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/image.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/network.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/plugin.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/secret.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/service.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/swarm.cpython-310.pyc",
+    "Lib/site-packages/docker/api/__pycache__/volume.cpython-310.pyc",
+    "Lib/site-packages/docker/__pycache__/auth.cpython-310.pyc",
+    "Lib/site-packages/docker/__pycache__/client.cpython-310.pyc",
+    "Lib/site-packages/docker/__pycache__/constants.cpython-310.pyc",
+    "Lib/site-packages/docker/context/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/docker/context/__pycache__/api.cpython-310.pyc",
+    "Lib/site-packages/docker/context/__pycache__/config.cpython-310.pyc",
+    "Lib/site-packages/docker/context/__pycache__/context.cpython-310.pyc",
+    "Lib/site-packages/docker/credentials/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/docker/credentials/__pycache__/constants.cpython-310.pyc",
+    "Lib/site-packages/docker/credentials/__pycache__/errors.cpython-310.pyc",
+    "Lib/site-packages/docker/credentials/__pycache__/store.cpython-310.pyc",
+    "Lib/site-packages/docker/credentials/__pycache__/utils.cpython-310.pyc",
+    "Lib/site-packages/docker/__pycache__/errors.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/configs.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/containers.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/images.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/networks.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/nodes.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/plugins.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/resource.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/secrets.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/services.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/swarm.cpython-310.pyc",
+    "Lib/site-packages/docker/models/__pycache__/volumes.cpython-310.pyc",
+    "Lib/site-packages/docker/__pycache__/tls.cpython-310.pyc",
+    "Lib/site-packages/docker/transport/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/docker/transport/__pycache__/basehttpadapter.cpython-310.pyc",
+    "Lib/site-packages/docker/transport/__pycache__/npipeconn.cpython-310.pyc",
+    "Lib/site-packages/docker/transport/__pycache__/npipesocket.cpython-310.pyc",
+    "Lib/site-packages/docker/transport/__pycache__/sshconn.cpython-310.pyc",
+    "Lib/site-packages/docker/transport/__pycache__/ssladapter.cpython-310.pyc",
+    "Lib/site-packages/docker/transport/__pycache__/unixconn.cpython-310.pyc",
+    "Lib/site-packages/docker/types/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/docker/types/__pycache__/base.cpython-310.pyc",
+    "Lib/site-packages/docker/types/__pycache__/containers.cpython-310.pyc",
+    "Lib/site-packages/docker/types/__pycache__/daemon.cpython-310.pyc",
+    "Lib/site-packages/docker/types/__pycache__/healthcheck.cpython-310.pyc",
+    "Lib/site-packages/docker/types/__pycache__/networks.cpython-310.pyc",
+    "Lib/site-packages/docker/types/__pycache__/services.cpython-310.pyc",
+    "Lib/site-packages/docker/types/__pycache__/swarm.cpython-310.pyc",
+    "Lib/site-packages/docker/utils/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/docker/utils/__pycache__/build.cpython-310.pyc",
+    "Lib/site-packages/docker/utils/__pycache__/config.cpython-310.pyc",
+    "Lib/site-packages/docker/utils/__pycache__/decorators.cpython-310.pyc",
+    "Lib/site-packages/docker/utils/__pycache__/fnmatch.cpython-310.pyc",
+    "Lib/site-packages/docker/utils/__pycache__/json_stream.cpython-310.pyc",
+    "Lib/site-packages/docker/utils/__pycache__/ports.cpython-310.pyc",
+    "Lib/site-packages/docker/utils/__pycache__/proxy.cpython-310.pyc",
+    "Lib/site-packages/docker/utils/__pycache__/socket.cpython-310.pyc",
+    "Lib/site-packages/docker/utils/__pycache__/utils.cpython-310.pyc",
+    "Lib/site-packages/docker/__pycache__/version.cpython-310.pyc"
+  ],
+  "fn": "docker-py-6.1.3-pyhd8ed1ab_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\omen\\.conda\\pkgs\\docker-py-6.1.3-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "c95d23d8bae7e21491868cc7772d7c73",
+  "name": "docker-py",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\omen\\.conda\\pkgs\\docker-py-6.1.3-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/docker-6.1.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/docker-6.1.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f2f0b07fa5e492c11d27aa0d2f3f1a0e64b9d17f32d8aa489ae2af9609af33b2",
+        "sha256_in_prefix": "f2f0b07fa5e492c11d27aa0d2f3f1a0e64b9d17f32d8aa489ae2af9609af33b2",
+        "size_in_bytes": 10758
+      },
+      {
+        "_path": "site-packages/docker-6.1.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "619bb903ba06e1881288f71a5d79bd4b43de81134003623648931d43d5f9c601",
+        "sha256_in_prefix": "619bb903ba06e1881288f71a5d79bd4b43de81134003623648931d43d5f9c601",
+        "size_in_bytes": 3480
+      },
+      {
+        "_path": "site-packages/docker-6.1.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7f25f4af492ea9abb25bc57232f559e689bc8336063924d5f869202b6f4491d4",
+        "sha256_in_prefix": "7f25f4af492ea9abb25bc57232f559e689bc8336063924d5f869202b6f4491d4",
+        "size_in_bytes": 9706
+      },
+      {
+        "_path": "site-packages/docker-6.1.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/docker-6.1.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a6472d658cd44b8018567e9d27eef7ebb389662bc5d9ef1103d6ff6418e27f5f",
+        "sha256_in_prefix": "a6472d658cd44b8018567e9d27eef7ebb389662bc5d9ef1103d6ff6418e27f5f",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/docker-6.1.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e18905ca0c7fc44019429d3a1b65cb6a7d5477dfac5adb8cb778293611a6f66b",
+        "sha256_in_prefix": "e18905ca0c7fc44019429d3a1b65cb6a7d5477dfac5adb8cb778293611a6f66b",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/docker-6.1.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "00d151e7d392e68e2c756a6fc42640006ddc0a98d37dba3f90a7b73f63188bbd",
+        "sha256_in_prefix": "00d151e7d392e68e2c756a6fc42640006ddc0a98d37dba3f90a7b73f63188bbd",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "site-packages/docker/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0ddf4075976e4f44e756b79c7797c5df393818697e68595f74dda8281fc4be64",
+        "sha256_in_prefix": "0ddf4075976e4f44e756b79c7797c5df393818697e68595f74dda8281fc4be64",
+        "size_in_bytes": 228
+      },
+      {
+        "_path": "site-packages/docker/_version.py",
+        "path_type": "hardlink",
+        "sha256": "4e6c7223274ee2c77586c2711a91a652af449ecac19212d37062d672000384eb",
+        "sha256_in_prefix": "4e6c7223274ee2c77586c2711a91a652af449ecac19212d37062d672000384eb",
+        "size_in_bytes": 160
+      },
+      {
+        "_path": "site-packages/docker/api/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0625cc14ca0557f2677d58d8d2d003041b3713b07c0f46488338a1225290b9e4",
+        "sha256_in_prefix": "0625cc14ca0557f2677d58d8d2d003041b3713b07c0f46488338a1225290b9e4",
+        "size_in_bytes": 45
+      },
+      {
+        "_path": "site-packages/docker/api/build.py",
+        "path_type": "hardlink",
+        "sha256": "0947e5de5c419fc877007a58f2c7ff075dc944d6fab7b340b66e4169ca4b6d77",
+        "sha256_in_prefix": "0947e5de5c419fc877007a58f2c7ff075dc944d6fab7b340b66e4169ca4b6d77",
+        "size_in_bytes": 14667
+      },
+      {
+        "_path": "site-packages/docker/api/client.py",
+        "path_type": "hardlink",
+        "sha256": "c26d0370cc750adec93998f017508aa3ea044fb0c2eda21b4b156ab0e0cd0628",
+        "sha256_in_prefix": "c26d0370cc750adec93998f017508aa3ea044fb0c2eda21b4b156ab0e0cd0628",
+        "size_in_bytes": 19128
+      },
+      {
+        "_path": "site-packages/docker/api/config.py",
+        "path_type": "hardlink",
+        "sha256": "075c47f4a1a0305189f68cfe47b22f956e45516b85c570e436733961f80f0eb4",
+        "sha256_in_prefix": "075c47f4a1a0305189f68cfe47b22f956e45516b85c570e436733961f80f0eb4",
+        "size_in_bytes": 2706
+      },
+      {
+        "_path": "site-packages/docker/api/container.py",
+        "path_type": "hardlink",
+        "sha256": "d1e4c97b9bbe30bfc64d347b393683667a6ab5b0b5e6d353b495e31048174cea",
+        "sha256_in_prefix": "d1e4c97b9bbe30bfc64d347b393683667a6ab5b0b5e6d353b495e31048174cea",
+        "size_in_bytes": 52534
+      },
+      {
+        "_path": "site-packages/docker/api/daemon.py",
+        "path_type": "hardlink",
+        "sha256": "407318647d30e3184e796583cabe5a7b5de4b4abbcfad9c6ed4e3875697d3f14",
+        "sha256_in_prefix": "407318647d30e3184e796583cabe5a7b5de4b4abbcfad9c6ed4e3875697d3f14",
+        "size_in_bytes": 6008
+      },
+      {
+        "_path": "site-packages/docker/api/exec_api.py",
+        "path_type": "hardlink",
+        "sha256": "d90324807f9730af9a30e3ddbeeec7433234031e288bbc00fd4ebb4bfa4b2cf9",
+        "sha256_in_prefix": "d90324807f9730af9a30e3ddbeeec7433234031e288bbc00fd4ebb4bfa4b2cf9",
+        "size_in_bytes": 6224
+      },
+      {
+        "_path": "site-packages/docker/api/image.py",
+        "path_type": "hardlink",
+        "sha256": "9c14a1350299662df804fa4f7e29574bff96a22829d130b7e7d4a395bae4f683",
+        "sha256_in_prefix": "9c14a1350299662df804fa4f7e29574bff96a22829d130b7e7d4a395bae4f683",
+        "size_in_bytes": 20255
+      },
+      {
+        "_path": "site-packages/docker/api/network.py",
+        "path_type": "hardlink",
+        "sha256": "678ea55700703f05730aff14810fce96dddfffb64a7dd7aee170b3aeb887bd66",
+        "sha256_in_prefix": "678ea55700703f05730aff14810fce96dddfffb64a7dd7aee170b3aeb887bd66",
+        "size_in_bytes": 10691
+      },
+      {
+        "_path": "site-packages/docker/api/plugin.py",
+        "path_type": "hardlink",
+        "sha256": "791e86235d8409783fbcbad0f4606032e894bed72a983c73866c39f7298e559c",
+        "sha256_in_prefix": "791e86235d8409783fbcbad0f4606032e894bed72a983c73866c39f7298e559c",
+        "size_in_bytes": 8982
+      },
+      {
+        "_path": "site-packages/docker/api/secret.py",
+        "path_type": "hardlink",
+        "sha256": "354a5ad168a192219601503fdbd188e391e9d6de0d48541e56030ea538ffd7c5",
+        "sha256_in_prefix": "354a5ad168a192219601503fdbd188e391e9d6de0d48541e56030ea538ffd7c5",
+        "size_in_bytes": 2883
+      },
+      {
+        "_path": "site-packages/docker/api/service.py",
+        "path_type": "hardlink",
+        "sha256": "549017ec9ffe83a31cda4af8928d1a821796dbfdedf980d4fd316b8d9efdea9a",
+        "sha256_in_prefix": "549017ec9ffe83a31cda4af8928d1a821796dbfdedf980d4fd316b8d9efdea9a",
+        "size_in_bytes": 19255
+      },
+      {
+        "_path": "site-packages/docker/api/swarm.py",
+        "path_type": "hardlink",
+        "sha256": "29ede16711914ee121f1ae72a5318dc0ed138ef3ad9afde68d16a12edf4591af",
+        "sha256_in_prefix": "29ede16711914ee121f1ae72a5318dc0ed138ef3ad9afde68d16a12edf4591af",
+        "size_in_bytes": 18116
+      },
+      {
+        "_path": "site-packages/docker/api/volume.py",
+        "path_type": "hardlink",
+        "sha256": "a2fffb3ba9d60a929849190fda1aae8fc39595daed86ab8dc6ac4e81b1faf1aa",
+        "sha256_in_prefix": "a2fffb3ba9d60a929849190fda1aae8fc39595daed86ab8dc6ac4e81b1faf1aa",
+        "size_in_bytes": 5133
+      },
+      {
+        "_path": "site-packages/docker/auth.py",
+        "path_type": "hardlink",
+        "sha256": "8abe1cd9a55de477ff1da1d007bef86fa2adbe7067d76744184346adb88813d5",
+        "sha256_in_prefix": "8abe1cd9a55de477ff1da1d007bef86fa2adbe7067d76744184346adb88813d5",
+        "size_in_bytes": 13241
+      },
+      {
+        "_path": "site-packages/docker/client.py",
+        "path_type": "hardlink",
+        "sha256": "6db41659bd2cdee1c1e70d9276ed78eb98d0354b8838c20e48ade601fcc98361",
+        "sha256_in_prefix": "6db41659bd2cdee1c1e70d9276ed78eb98d0354b8838c20e48ade601fcc98361",
+        "size_in_bytes": 7832
+      },
+      {
+        "_path": "site-packages/docker/constants.py",
+        "path_type": "hardlink",
+        "sha256": "c87816b3d752037e4b1c359f952811d3fd335b82486730bfd14be756c2c079b9",
+        "sha256_in_prefix": "c87816b3d752037e4b1c359f952811d3fd335b82486730bfd14be756c2c079b9",
+        "size_in_bytes": 1194
+      },
+      {
+        "_path": "site-packages/docker/context/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "dbdb91299a686bd4b71ca232a28315cf3619287e922b3706aa64702438e1ec56",
+        "sha256_in_prefix": "dbdb91299a686bd4b71ca232a28315cf3619287e922b3706aa64702438e1ec56",
+        "size_in_bytes": 72
+      },
+      {
+        "_path": "site-packages/docker/context/api.py",
+        "path_type": "hardlink",
+        "sha256": "ce067352863729fb3c316a5d703c8fcc5ed38c341a10bcc7504a6cb039b084fd",
+        "sha256_in_prefix": "ce067352863729fb3c316a5d703c8fcc5ed38c341a10bcc7504a6cb039b084fd",
+        "size_in_bytes": 6433
+      },
+      {
+        "_path": "site-packages/docker/context/config.py",
+        "path_type": "hardlink",
+        "sha256": "57356bdd463f8afcc948f23ee50bc7cb0015de8614d4de42717bae3be510ee8d",
+        "sha256_in_prefix": "57356bdd463f8afcc948f23ee50bc7cb0015de8614d4de42717bae3be510ee8d",
+        "size_in_bytes": 2149
+      },
+      {
+        "_path": "site-packages/docker/context/context.py",
+        "path_type": "hardlink",
+        "sha256": "52e179b1dfca25353efc484de327296e8bd223599bc513277afd772bb9ab2202",
+        "sha256_in_prefix": "52e179b1dfca25353efc484de327296e8bd223599bc513277afd772bb9ab2202",
+        "size_in_bytes": 7906
+      },
+      {
+        "_path": "site-packages/docker/credentials/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c399ecc211c9248b4b9465d6681f31992286ec79cc677b62e1b4b02dac65a507",
+        "sha256_in_prefix": "c399ecc211c9248b4b9465d6681f31992286ec79cc677b62e1b4b02dac65a507",
+        "size_in_bytes": 117
+      },
+      {
+        "_path": "site-packages/docker/credentials/constants.py",
+        "path_type": "hardlink",
+        "sha256": "e478d11a8ae956f91a9af2c123dc8b3efbabd44d2095aabf661b917db540fdb1",
+        "sha256_in_prefix": "e478d11a8ae956f91a9af2c123dc8b3efbabd44d2095aabf661b917db540fdb1",
+        "size_in_bytes": 142
+      },
+      {
+        "_path": "site-packages/docker/credentials/errors.py",
+        "path_type": "hardlink",
+        "sha256": "fcc334a13dd59f2fc72d5359beb464056d0d00453e32d6fe1a8f5d28865e023b",
+        "sha256_in_prefix": "fcc334a13dd59f2fc72d5359beb464056d0d00453e32d6fe1a8f5d28865e023b",
+        "size_in_bytes": 573
+      },
+      {
+        "_path": "site-packages/docker/credentials/store.py",
+        "path_type": "hardlink",
+        "sha256": "27497bb9e7f1282472b7d93c8b47b2253bbfbe7f1517ae81f019944d74c9217d",
+        "sha256_in_prefix": "27497bb9e7f1282472b7d93c8b47b2253bbfbe7f1517ae81f019944d74c9217d",
+        "size_in_bytes": 3441
+      },
+      {
+        "_path": "site-packages/docker/credentials/utils.py",
+        "path_type": "hardlink",
+        "sha256": "d3185f8e50b16b6fc2c9118248accfbee009cd5f93cbbb7e3b930a9f212ad6eb",
+        "sha256_in_prefix": "d3185f8e50b16b6fc2c9118248accfbee009cd5f93cbbb7e3b930a9f212ad6eb",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "site-packages/docker/errors.py",
+        "path_type": "hardlink",
+        "sha256": "6bfc830e478048f7f7459d1721ce53c78ef43e0e37696f3fedf0ccc9f70b7091",
+        "sha256_in_prefix": "6bfc830e478048f7f7459d1721ce53c78ef43e0e37696f3fedf0ccc9f70b7091",
+        "size_in_bytes": 5344
+      },
+      {
+        "_path": "site-packages/docker/models/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/docker/models/configs.py",
+        "path_type": "hardlink",
+        "sha256": "d974ac72b503a5e32e85288a11d2722e44c89410db2fc681873a5aefa021a6a3",
+        "sha256_in_prefix": "d974ac72b503a5e32e85288a11d2722e44c89410db2fc681873a5aefa021a6a3",
+        "size_in_bytes": 1781
+      },
+      {
+        "_path": "site-packages/docker/models/containers.py",
+        "path_type": "hardlink",
+        "sha256": "d81ceacf6503cb5b1286e5d7fdeb9ccdd04f9eec113def6c38351d6267979d5a",
+        "sha256_in_prefix": "d81ceacf6503cb5b1286e5d7fdeb9ccdd04f9eec113def6c38351d6267979d5a",
+        "size_in_bytes": 46077
+      },
+      {
+        "_path": "site-packages/docker/models/images.py",
+        "path_type": "hardlink",
+        "sha256": "ee35ad5e93ef9d1fd50791199d7205b47f162b4b1510c2ca0be4a2d661c0af5d",
+        "sha256_in_prefix": "ee35ad5e93ef9d1fd50791199d7205b47f162b4b1510c2ca0be4a2d661c0af5d",
+        "size_in_bytes": 18010
+      },
+      {
+        "_path": "site-packages/docker/models/networks.py",
+        "path_type": "hardlink",
+        "sha256": "b7ba31b3784dfd2f926d2085399fcdf95f8cfdbd11a73b7517c3d5bf98cd60f4",
+        "sha256_in_prefix": "b7ba31b3784dfd2f926d2085399fcdf95f8cfdbd11a73b7517c3d5bf98cd60f4",
+        "size_in_bytes": 7962
+      },
+      {
+        "_path": "site-packages/docker/models/nodes.py",
+        "path_type": "hardlink",
+        "sha256": "16dd680ec78d247ffd50d46dc1d48207ec689a89816e0b2ac9bcee3fcea4100f",
+        "sha256_in_prefix": "16dd680ec78d247ffd50d46dc1d48207ec689a89816e0b2ac9bcee3fcea4100f",
+        "size_in_bytes": 2928
+      },
+      {
+        "_path": "site-packages/docker/models/plugins.py",
+        "path_type": "hardlink",
+        "sha256": "bf558916e1c7cc1a676172337e3e9951dc5687718c5607e06a72a2278d5f5317",
+        "sha256_in_prefix": "bf558916e1c7cc1a676172337e3e9951dc5687718c5607e06a72a2278d5f5317",
+        "size_in_bytes": 5970
+      },
+      {
+        "_path": "site-packages/docker/models/resource.py",
+        "path_type": "hardlink",
+        "sha256": "30e72665c1f78c34ffce2fc6e34f4fbdb926ea50c67435d80868501a806cc6b0",
+        "sha256_in_prefix": "30e72665c1f78c34ffce2fc6e34f4fbdb926ea50c67435d80868501a806cc6b0",
+        "size_in_bytes": 2611
+      },
+      {
+        "_path": "site-packages/docker/models/secrets.py",
+        "path_type": "hardlink",
+        "sha256": "b73fb9c38739d4984b254c2020c9761546df92df2de0ea1b23fc8e36a0f91405",
+        "sha256_in_prefix": "b73fb9c38739d4984b254c2020c9761546df92df2de0ea1b23fc8e36a0f91405",
+        "size_in_bytes": 1845
+      },
+      {
+        "_path": "site-packages/docker/models/services.py",
+        "path_type": "hardlink",
+        "sha256": "02ef054b93ffaddf7d9102d2e0c6d947f15604ca65420e651bc3a456d6145b1f",
+        "sha256_in_prefix": "02ef054b93ffaddf7d9102d2e0c6d947f15604ca65420e651bc3a456d6145b1f",
+        "size_in_bytes": 13922
+      },
+      {
+        "_path": "site-packages/docker/models/swarm.py",
+        "path_type": "hardlink",
+        "sha256": "bff73cb02d145d544892006e2be072ab79304ca1dfb5e237a79950d00f23dc93",
+        "sha256_in_prefix": "bff73cb02d145d544892006e2be072ab79304ca1dfb5e237a79950d00f23dc93",
+        "size_in_bytes": 8289
+      },
+      {
+        "_path": "site-packages/docker/models/volumes.py",
+        "path_type": "hardlink",
+        "sha256": "e59e66b18e7b0aa3442937ca596c31800a6775b64bcce791918bce39749d30b3",
+        "sha256_in_prefix": "e59e66b18e7b0aa3442937ca596c31800a6775b64bcce791918bce39749d30b3",
+        "size_in_bytes": 2848
+      },
+      {
+        "_path": "site-packages/docker/tls.py",
+        "path_type": "hardlink",
+        "sha256": "5b2fff856cea2b9e72bf20784bec4254a3f350535b897afde14b2812b3051680",
+        "sha256_in_prefix": "5b2fff856cea2b9e72bf20784bec4254a3f350535b897afde14b2812b3051680",
+        "size_in_bytes": 3267
+      },
+      {
+        "_path": "site-packages/docker/transport/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3815a8501790d89364521cbfa81bc7cb17258b700503351134d08982bf68f9eb",
+        "sha256_in_prefix": "3815a8501790d89364521cbfa81bc7cb17258b700503351134d08982bf68f9eb",
+        "size_in_bytes": 286
+      },
+      {
+        "_path": "site-packages/docker/transport/basehttpadapter.py",
+        "path_type": "hardlink",
+        "sha256": "8f72775c7e2561ed591677f2fe973992bba315d2fbae9a3912349c523f4c54f7",
+        "sha256_in_prefix": "8f72775c7e2561ed591677f2fe973992bba315d2fbae9a3912349c523f4c54f7",
+        "size_in_bytes": 192
+      },
+      {
+        "_path": "site-packages/docker/transport/npipeconn.py",
+        "path_type": "hardlink",
+        "sha256": "82106a7c10ab5cb456a7d41233c8a81b53fc431c0f0ae3ba759610e63af93390",
+        "sha256_in_prefix": "82106a7c10ab5cb456a7d41233c8a81b53fc431c0f0ae3ba759610e63af93390",
+        "size_in_bytes": 3518
+      },
+      {
+        "_path": "site-packages/docker/transport/npipesocket.py",
+        "path_type": "hardlink",
+        "sha256": "cef7adbd61e66389bab166cc6233cc59923e56921720a3d4ae020ac3ec4d7ff8",
+        "sha256_in_prefix": "cef7adbd61e66389bab166cc6233cc59923e56921720a3d4ae020ac3ec4d7ff8",
+        "size_in_bytes": 6585
+      },
+      {
+        "_path": "site-packages/docker/transport/sshconn.py",
+        "path_type": "hardlink",
+        "sha256": "17eba5c334e8157b1918c367357dcc0b25622b67b0fab82f94cf0487afc702b8",
+        "sha256_in_prefix": "17eba5c334e8157b1918c367357dcc0b25622b67b0fab82f94cf0487afc702b8",
+        "size_in_bytes": 7915
+      },
+      {
+        "_path": "site-packages/docker/transport/ssladapter.py",
+        "path_type": "hardlink",
+        "sha256": "bbbfe6e2148f77c9ce02c9ed9a5f7e93b68250d4541497ef4708328ab9f635ec",
+        "sha256_in_prefix": "bbbfe6e2148f77c9ce02c9ed9a5f7e93b68250d4541497ef4708328ab9f635ec",
+        "size_in_bytes": 2172
+      },
+      {
+        "_path": "site-packages/docker/transport/unixconn.py",
+        "path_type": "hardlink",
+        "sha256": "1cdf839921178e2c01ceb300555854c462e23792de080f846958a81983f880bb",
+        "sha256_in_prefix": "1cdf839921178e2c01ceb300555854c462e23792de080f846958a81983f880bb",
+        "size_in_bytes": 2932
+      },
+      {
+        "_path": "site-packages/docker/types/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "39e673124235dbcde11f91eb12b9879a4f2670023a324d24a44e48201590c95c",
+        "sha256_in_prefix": "39e673124235dbcde11f91eb12b9879a4f2670023a324d24a44e48201590c95c",
+        "size_in_bytes": 595
+      },
+      {
+        "_path": "site-packages/docker/types/base.py",
+        "path_type": "hardlink",
+        "sha256": "b210c5cf9544c7e99f76d32d250408a53f061baad9f8d99f512eae16f4abde28",
+        "sha256_in_prefix": "b210c5cf9544c7e99f76d32d250408a53f061baad9f8d99f512eae16f4abde28",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/docker/types/containers.py",
+        "path_type": "hardlink",
+        "sha256": "a28646a421e51f1beb3a7d0f5bea7b951640fd7e824d055ddbc69c9bf8d765bd",
+        "sha256_in_prefix": "a28646a421e51f1beb3a7d0f5bea7b951640fd7e824d055ddbc69c9bf8d765bd",
+        "size_in_bytes": 27481
+      },
+      {
+        "_path": "site-packages/docker/types/daemon.py",
+        "path_type": "hardlink",
+        "sha256": "db060245a02ddc323be07024e82c485aa4a8296ba1af6f49f518e0914f0cb58c",
+        "sha256_in_prefix": "db060245a02ddc323be07024e82c485aa4a8296ba1af6f49f518e0914f0cb58c",
+        "size_in_bytes": 1923
+      },
+      {
+        "_path": "site-packages/docker/types/healthcheck.py",
+        "path_type": "hardlink",
+        "sha256": "95ebaa7cdea853097149dfe230614f7d1893076662a731121ed063f0dc7356fe",
+        "sha256_in_prefix": "95ebaa7cdea853097149dfe230614f7d1893076662a731121ed063f0dc7356fe",
+        "size_in_bytes": 2776
+      },
+      {
+        "_path": "site-packages/docker/types/networks.py",
+        "path_type": "hardlink",
+        "sha256": "ec8f365583d077b463a9fc31d3e4368ce23018af8af14892d0aeb562466dbaec",
+        "sha256_in_prefix": "ec8f365583d077b463a9fc31d3e4368ce23018af8af14892d0aeb562466dbaec",
+        "size_in_bytes": 4240
+      },
+      {
+        "_path": "site-packages/docker/types/services.py",
+        "path_type": "hardlink",
+        "sha256": "ae7cf998d7c5546f2d556fe2cc5b94fa0172f644550e2b95c09d4068f9769df0",
+        "sha256_in_prefix": "ae7cf998d7c5546f2d556fe2cc5b94fa0172f644550e2b95c09d4068f9769df0",
+        "size_in_bytes": 33158
+      },
+      {
+        "_path": "site-packages/docker/types/swarm.py",
+        "path_type": "hardlink",
+        "sha256": "fb1863b8e817044dc2b7dcecb83d2bfa4f2344e2fe5c44e64535a54601994c6e",
+        "sha256_in_prefix": "fb1863b8e817044dc2b7dcecb83d2bfa4f2344e2fe5c44e64535a54601994c6e",
+        "size_in_bytes": 4653
+      },
+      {
+        "_path": "site-packages/docker/utils/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1ad6c59f513fd709510c612facd5fb23bb4298212ddca737c49de272dac65f68",
+        "sha256_in_prefix": "1ad6c59f513fd709510c612facd5fb23bb4298212ddca737c49de272dac65f68",
+        "size_in_bytes": 606
+      },
+      {
+        "_path": "site-packages/docker/utils/build.py",
+        "path_type": "hardlink",
+        "sha256": "be43db83c08b763347bcaba96d60a3d320bb59fa7e54a00315e79d6e0a53fc1c",
+        "sha256_in_prefix": "be43db83c08b763347bcaba96d60a3d320bb59fa7e54a00315e79d6e0a53fc1c",
+        "size_in_bytes": 8019
+      },
+      {
+        "_path": "site-packages/docker/utils/config.py",
+        "path_type": "hardlink",
+        "sha256": "7f96094a244948688e870493409cffec7b00f401d210d89bebdd935cd95deb0d",
+        "sha256_in_prefix": "7f96094a244948688e870493409cffec7b00f401d210d89bebdd935cd95deb0d",
+        "size_in_bytes": 1724
+      },
+      {
+        "_path": "site-packages/docker/utils/decorators.py",
+        "path_type": "hardlink",
+        "sha256": "72ca26c1c3ee7a4510833c8aae106503903702529e01ad7edce7a6f4dd6d55a4",
+        "sha256_in_prefix": "72ca26c1c3ee7a4510833c8aae106503903702529e01ad7edce7a6f4dd6d55a4",
+        "size_in_bytes": 1547
+      },
+      {
+        "_path": "site-packages/docker/utils/fnmatch.py",
+        "path_type": "hardlink",
+        "sha256": "0a46c65b342fa0e2e8b4e1fb13dd3dae18f5702e71eb8afcacbc129fb3103ccf",
+        "sha256_in_prefix": "0a46c65b342fa0e2e8b4e1fb13dd3dae18f5702e71eb8afcacbc129fb3103ccf",
+        "size_in_bytes": 3295
+      },
+      {
+        "_path": "site-packages/docker/utils/json_stream.py",
+        "path_type": "hardlink",
+        "sha256": "084120c7028e1b36ff522ce38aee82e418b3b6e9a8dca1d9d6c9cf1d0d4242fc",
+        "sha256_in_prefix": "084120c7028e1b36ff522ce38aee82e418b3b6e9a8dca1d9d6c9cf1d0d4242fc",
+        "size_in_bytes": 2178
+      },
+      {
+        "_path": "site-packages/docker/utils/ports.py",
+        "path_type": "hardlink",
+        "sha256": "64392c524fb5a99a84baf835b148a337504181378635e0fddddd3659d2064dae",
+        "sha256_in_prefix": "64392c524fb5a99a84baf835b148a337504181378635e0fddddd3659d2064dae",
+        "size_in_bytes": 2800
+      },
+      {
+        "_path": "site-packages/docker/utils/proxy.py",
+        "path_type": "hardlink",
+        "sha256": "7aa24651a5cf2e79f9201f0d00cfc4660026a001557077aafb1c8c8443021511",
+        "sha256_in_prefix": "7aa24651a5cf2e79f9201f0d00cfc4660026a001557077aafb1c8c8443021511",
+        "size_in_bytes": 2203
+      },
+      {
+        "_path": "site-packages/docker/utils/socket.py",
+        "path_type": "hardlink",
+        "sha256": "f5483f6cecc032894a80a46dd25e4e7a308c98f224c50a0088b4acbc334b9614",
+        "sha256_in_prefix": "f5483f6cecc032894a80a46dd25e4e7a308c98f224c50a0088b4acbc334b9614",
+        "size_in_bytes": 5093
+      },
+      {
+        "_path": "site-packages/docker/utils/utils.py",
+        "path_type": "hardlink",
+        "sha256": "b31fecc8f4cbb8cbc9e10337316ffa1080fd0ae93604ba903cb34a43ae561d46",
+        "sha256_in_prefix": "b31fecc8f4cbb8cbc9e10337316ffa1080fd0ae93604ba903cb34a43ae561d46",
+        "size_in_bytes": 13741
+      },
+      {
+        "_path": "site-packages/docker/version.py",
+        "path_type": "hardlink",
+        "sha256": "4e1865d8ac4ca0967cf714dd9c3c7e3f31f7cd84a6289732b5eca00b9d141542",
+        "sha256_in_prefix": "4e1865d8ac4ca0967cf714dd9c3c7e3f31f7cd84a6289732b5eca00b9d141542",
+        "size_in_bytes": 536
+      },
+      {
+        "_path": "Lib/site-packages/docker/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/__pycache__/_version.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/build.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/client.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/config.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/container.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/daemon.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/exec_api.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/image.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/network.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/plugin.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/secret.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/service.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/swarm.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/api/__pycache__/volume.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/__pycache__/auth.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/__pycache__/client.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/__pycache__/constants.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/context/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/context/__pycache__/api.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/context/__pycache__/config.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/context/__pycache__/context.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/credentials/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/credentials/__pycache__/constants.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/credentials/__pycache__/errors.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/credentials/__pycache__/store.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/credentials/__pycache__/utils.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/__pycache__/errors.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/configs.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/containers.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/images.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/networks.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/nodes.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/plugins.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/resource.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/secrets.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/services.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/swarm.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/models/__pycache__/volumes.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/__pycache__/tls.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/transport/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/transport/__pycache__/basehttpadapter.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/transport/__pycache__/npipeconn.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/transport/__pycache__/npipesocket.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/transport/__pycache__/sshconn.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/transport/__pycache__/ssladapter.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/transport/__pycache__/unixconn.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/types/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/types/__pycache__/base.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/types/__pycache__/containers.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/types/__pycache__/daemon.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/types/__pycache__/healthcheck.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/types/__pycache__/networks.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/types/__pycache__/services.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/types/__pycache__/swarm.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/utils/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/utils/__pycache__/build.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/utils/__pycache__/config.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/utils/__pycache__/decorators.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/utils/__pycache__/fnmatch.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/utils/__pycache__/json_stream.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/utils/__pycache__/ports.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/utils/__pycache__/proxy.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/utils/__pycache__/socket.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/utils/__pycache__/utils.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/docker/__pycache__/version.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7c3031602e92fd7682302ef98a45bdf7374d48a849cdd3900b7c68a32d162177",
+  "size": 103563,
+  "subdir": "noarch",
+  "timestamp": 1688805616000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/docker-py-6.1.3-pyhd8ed1ab_0.conda",
+  "version": "6.1.3"
+}
